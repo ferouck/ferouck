@@ -11,10 +11,6 @@
 
 <img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> About me: I'm Felipe Rocha,  20 years old and live in Sumaré, Sp-Brazil. I Love React, PHP, Laravel and ReactJS
 
-
-## <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-
-
 ## 𝗦𝘁𝗮𝘁𝘀
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=ferouck&show_icons=true&theme=dracula)
 
