@@ -9,7 +9,7 @@
 
 <img src="https://img.icons8.com/plasticine/16/000000/work.png"/> working as a fullstack developer in Marry Perry Paris.
 
-<img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> About me: I'm Felipe Rocha,  20 years old and live in Sumaré, Sp-Brazil. I Love React, PHP, Laravel and ReactJS
+<img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> About me: I'm Felipe Rocha,  21 years old and live in Sumaré, Sp-Brazil. I Love React, PHP, Laravel and ReactJS
 
 ## About my dream <img src="https://img.icons8.com/office/24/000000/partly-cloudy-night--v2.png"/>
 Becoming a great developer to teach the world how a line of code can change your future
