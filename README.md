@@ -14,9 +14,6 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=ferouck&show_icons=true&theme=dracula)
 
-## Languages
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferouck&show_icons=true&theme=dracula)
-
 ## Fav repo
 I don't have 
 
@@ -24,5 +21,4 @@ I don't have
 Becoming a great developer to teach the world how a line of code can change your future
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ferouck)
