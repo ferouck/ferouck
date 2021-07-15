@@ -11,12 +11,6 @@
 
 <img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> About me: I'm Felipe Rocha,  20 years old and live in Sumaré, Sp-Brazil. I Love React, PHP, Laravel and ReactJS
 
-## 𝗦𝘁𝗮𝘁𝘀
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=ferouck&show_icons=true&theme=dracula)
-
-## Fav repo
-I don't have 
-
 ## About my dream <img src="https://img.icons8.com/office/24/000000/partly-cloudy-night--v2.png"/>
 Becoming a great developer to teach the world how a line of code can change your future
 
