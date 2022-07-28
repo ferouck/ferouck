@@ -7,9 +7,15 @@
 
 <img src="https://img.icons8.com/officexs/16/000000/code.png"/> 𝑰 FullStack Developer
 
-<img src="https://img.icons8.com/plasticine/16/000000/work.png"/> working as a fullstack developer in Marry Perry Paris.
+<img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> I have been working with IT since 2018 and I have tried as many areas as possible. I worked in agencies as web designer, back-end php developer in multi-level marketing companie and back-end (PHP, TypeScript, Java and Python) developer at Empiricus.
 
-<img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> About me: I'm Felipe Rocha,  21 years old and live in Sumaré, Sp-Brazil. I Love React, PHP, Laravel and ReactJS
+I have know how in a different kinds of technologies and languages, as:
+
+PHP, JavaScript, TypeScript, Java and Python.
+
+Frameworks and other libraries:
+
+AWS Lambda, AWS S3, Docker, Laravel, Lumen, Nestjs, Typeorm, Spring Boot, Vuejs, React, MySQL, PostgreSQL, NodeJS, HTML5, NPM, Yarn, Vuetify, APIs Rest, Git, Unit test with Jest.
 
 ## About my dream <img src="https://img.icons8.com/office/24/000000/partly-cloudy-night--v2.png"/>
 Becoming a great developer to teach the world how a line of code can change your future
